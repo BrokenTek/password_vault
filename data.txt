@@ -1,0 +1,5 @@
+youtube:user_youtube:pass_youtube
+netflix:user_netflix:pass_netflix
+bank:user_bank:pass_bank
+store:user_store:pass_store
+youtube:usernameY:passY
